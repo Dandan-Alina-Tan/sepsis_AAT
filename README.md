@@ -38,7 +38,7 @@ The analyses within this repository utilize data from several large-scale bioban
 ### Citation
 If you use this code or build upon our findings in your own research, please cite our preprint:
 
-> **Human Genetic Analysis Reveals Circulating Alpha-1 Antitrypsin Level as a Protective Factor in Sepsis** *medRxiv* (2026). Available at: [https://www.medrxiv.org/content/10.64898/2026.03.25.26349312v2]([https://www.medrxiv.org/content/10.64898/2026.03.25.26349312v2.full-text](https://www.medrxiv.org/content/10.64898/2026.03.25.26349312v2))
+> **Human Genetic Analysis Reveals Circulating Alpha-1 Antitrypsin Level as a Protective Factor in Sepsis** *medRxiv* (2026). Available at: https://doi.org/10.64898/2026.03.25.26349312
 
 ### License
 Distributed under the MIT License. See `LICENSE` for more information.
